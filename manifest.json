@@ -1,0 +1,28 @@
+{
+    "name": "Assimilator",
+    "version": "1.0",
+    "description": "A Chrome extension that recognizes medical conditions in your Google searches in real-time and provides targeted multimedia learning and support resources from all across the web",
+    "permissions": ["tabs", "activeTab", "declarativeContent", "storage"],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "page_action": {
+        "default_popup": "popup.html",
+        "default_icon": "img/caduceus.png"
+    },
+    "content_scripts": [{
+        "matches": [
+            "*://www.google.com/*",
+            "*://google.com/*"
+        ],
+        "js": ["content.js"]
+    }],
+    "icons": {
+        "16": "img/caduceus.png",
+        "32": "img/caduceus.png",
+        "48": "img/caduceus.png",
+        "128": "img/caduceus.png"
+    },
+    "manifest_version": 2
+}

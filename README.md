@@ -14,9 +14,13 @@ What the current version looks like:
 
 APIs utilized:
 [NIH CLinical Table Search Service](https://clinicaltables.nlm.nih.gov/)
+
 [iTunes store API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
+
 [ListenNotes API](https://www.listennotes.com/api/)
+
 [Reddit API](https://www.reddit.com/dev/api)
+
 [Twitter API](https://developer.twitter.com/en/docs/api-reference-index)
 
 Copyright (c) 2020 Barish Poole

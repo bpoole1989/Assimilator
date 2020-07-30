@@ -1,7 +1,7 @@
 # Assimilator
 *A Chrome Browser Extension that Curates Educational and Support Resources Based on Clinical Search Terms*
 
-Welcome to the result of my first ever solo hackathon, completed in 3.5 days during my stint at Fullstack Academy!
+Welcome to the result of my very humble, first ever solo hackathon, completed in 3.5 days during my stint at Fullstack Academy!
 
 This idea was born of a marriage between my compulsion towards constant learning and my training in healthcare. I believe that every thinking individual owes it to themselves and the world to educate themselves on what is most important to them and those around them. I'm also deeply familiar with how hard it is to get reliable information about a new medical diagnosis. And I've learned that some of the most helpful material is not given by an in-person expert, but rather stumbled upon while madly searching the web, where you can always find people who have gone through what you're experiencing and can give advice and perspective.   
 

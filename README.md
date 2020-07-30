@@ -14,7 +14,7 @@ At this moment, only the podcast list populates, and the Twitter accounts and su
 What the current version looks like:
 ![alt text](https://github.com/bpoole1989/Assimilator/blob/master/Assimilator.png?raw=true)
 
-# APIs utilized (so far):
+## APIs utilized (so far):
 [NIH CLinical Table Search Service](https://clinicaltables.nlm.nih.gov/)
 
 [iTunes store API](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
